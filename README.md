@@ -6,7 +6,7 @@ ___
 Today i learned **markdown!**It is easy and fun😊😊  
  
 ## To Do: 
-- [ ] install vs code 
+- [x] install vs code 
 - [ ] Learn markdown
 
 ## Table practce: 
