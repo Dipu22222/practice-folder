@@ -6,8 +6,8 @@ ___
 Today i learned **markdown!**It is easy and fun😊😊  
  
 ## To Do: 
-- [ ] install vs code 
-- [ ] Learn markdown
+- [X] install vs code 
+- [X] Learn markdown
 
 ## Table practce: 
 | subject | MArks |
